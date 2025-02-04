@@ -25,6 +25,14 @@ body {
     box-shadow: 3px 14px 28px rgb(90 147 63);
     text-align: center;
 }
+.para{
+    color: white;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
 .display {
     width: 92%;
     height: 50px;
